@@ -1,3 +1,18 @@
-.addTask {
-  /* Sample */
+
+.input{
+  height:28px;
+  width:300px;
+  border:0px;
+  outline: none;
+}
+.btn{
+  border:0px;
+  height:30.5px;
+  background-color: white;
+  font-size: 20px;
+  font-weight: bold ;
+  color:#0e5cad;
+}
+.btn:hover{
+  color:black;
 }
